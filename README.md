@@ -30,9 +30,11 @@ Data persisten antar sesi program
 Cara Kompilasi dan Menjalankan
 
 gcc -o perpustakaan.exe main.c buku.c anggota.c logika.c utils.c
+
 ./perpustakaan.exe
 
 Menu Program
+
 Tambah Buku - Menambahkan buku baru ke sistem
 Tampilkan Semua Buku - Menampilkan seluruh koleksi buku
 Tambah Anggota - Mendaftarkan anggota baru
